@@ -129,7 +129,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
+            label: Notion
             url: 'https://twitter.com/'
         styles:
           self:
