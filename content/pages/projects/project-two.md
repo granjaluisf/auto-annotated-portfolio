@@ -16,9 +16,8 @@ media:
 bottomSections:
   - type: CtaSection
     title: Access Luis' GitHub
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Link: <https://github.com/granjaluisf/DataDiscoverywithLuis.git>
     actions:
       - type: Button
         label: Try it now
