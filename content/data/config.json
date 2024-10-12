@@ -32,6 +32,14 @@
                 "url": "/https://github.com/granjaluisf/DataDiscoverywithLuis.git",
                 "icon": "github",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "www.linkedin.com/in/luis-f-granja",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
