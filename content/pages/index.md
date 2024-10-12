@@ -62,7 +62,6 @@ sections:
     variant: variant-b
     projects:
       - 'content/pages/projects/resource:-pre-requisites.md'
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
