@@ -130,7 +130,7 @@ sections:
         actions:
           - type: Link
             label: Notion
-            url: 'https://twitter.com/'
+            url: datadiscoverywithluis.notion.site
         styles:
           self:
             textAlign: left
