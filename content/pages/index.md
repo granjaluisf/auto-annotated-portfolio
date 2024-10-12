@@ -198,7 +198,7 @@ sections:
       delivery.
 backgroundImage:
   type: BackgroundImage
-  url: /images/cool-background.svg
+  url: /images/small_sur-1728716314336.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
