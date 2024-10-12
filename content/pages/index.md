@@ -47,7 +47,8 @@ sections:
       University of Missouri-Kansas City. After studying comparative human
       development and social service administration at the University of
       Chicago, his work experience in the healthcare information technology
-      industry inspired him to pursue a career in customer experience analytics.
+      industry inspired him to pursue a career in data science and customer
+      experience.
     media:
       type: VideoBlock
       title: Title of the video
