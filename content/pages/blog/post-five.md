@@ -4,7 +4,9 @@ title: Post-Baccalaureate Learning Pathway
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: >-
+  From courses in computer science to mathematics, the data science career
+  requires an interdisciplinary toolkit.
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
