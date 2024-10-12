@@ -20,7 +20,7 @@ bottomSections:
       Link: <https://github.com/granjaluisf/DataDiscoverywithLuis.git>
     actions:
       - type: Button
-        label: Data Discovery with Luis
+        label: GitHub Portfolio
         altText: ''
         url: 'https://github.com/granjaluisf/DataDiscoverywithLuis.git'
         showIcon: true
