@@ -16,7 +16,7 @@ sections:
     title: Discovering data science
     subtitle: >-
       Luis Fernando Granja is an aspiring data scientist, currently enrolled in
-      a post-baccalaureate computer science program, towards a masters in data
+      a post-baccalaureate computer science program, unto a masters in data
       science and analytics.
     styles:
       self:
