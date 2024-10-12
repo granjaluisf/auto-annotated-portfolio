@@ -17,9 +17,10 @@ sections:
     subtitle: >-
       Luis Fernando Granja is an aspiring data scientist, currently enrolled in
       a post-baccalaureate computer science program, unto a masters in data
-      science and analytics. After completing his degrees in human development
-      and social service administration, Luis developed a passion to employ data
-      tools to improve consumer experience.
+      science and analytics. After he completed his degrees in human development
+      and social service administration in Chicago, his experience working in
+      the healthcare information technology industry inspired him to pursue his
+      passion in customer experience analytics.
     styles:
       self:
         height: auto
