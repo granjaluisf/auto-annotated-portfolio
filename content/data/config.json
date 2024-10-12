@@ -76,7 +76,7 @@
             {
                 "type": "Link",
                 "label": "LinkedIn",
-                "altText": "",
+                "altText": "My LinkedIn",
                 "url": "www.linkedin.com/in/luis-f-granja",
                 "showIcon": false,
                 "icon": "arrowRight",
