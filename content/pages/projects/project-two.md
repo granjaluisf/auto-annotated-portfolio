@@ -48,5 +48,12 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 Link: <https://github.com/granjaluisf/DataDiscoverywithLuis.git>
