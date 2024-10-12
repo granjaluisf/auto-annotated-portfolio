@@ -44,11 +44,12 @@ sections:
     actions: []
     text: >
       Luis Fernando Granja is an aspiring data scientist in KCMO, currently
-      enrolled in a post-baccalaureate computer science program, preparing for a
-      masters in data science and analytics. After he completed his degrees in
-      human development and social service administration in Chicago, his
-      experience working in the healthcare information technology industry
-      inspired him to pursue a career in customer experience analytics.
+      enrolled in a post-baccalaureate computer science program, while he
+      prepares to enroll in a masters in data science and analytics. After he
+      completed his degrees in human development and social service
+      administration in Chicago, his experience working in the healthcare
+      information technology industry inspired him to pursue a career in
+      customer experience analytics.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
