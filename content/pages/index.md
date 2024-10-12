@@ -13,13 +13,14 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: Discovering data science
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Luis Fernando Granja is an aspiring data scientist in KCMO, currently
+      enrolled in a post-baccalaureate computer science program, preparing for a
+      masters in data science and analytics. After he completed his degrees in
+      human development and social service administration in Chicago, his
+      experience working in the healthcare information technology industry
+      inspired him to pursue a career in customer experience analytics.
     styles:
       self:
         height: auto
@@ -60,9 +61,7 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
+      - 'content/pages/projects/resource:-pre-requisites.md'
     styles:
       self:
         height: auto
@@ -84,7 +83,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -95,10 +94,7 @@ sections:
       - type: Link
         label: See all posts
         url: /blog
-    posts:
-      - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
+    posts: []
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
@@ -130,7 +126,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Contact Luis
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -156,10 +152,10 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
+        - name: Company
+          label: Company
           hideLabel: true
-          placeholder: Address
+          placeholder: Company
           isRequired: true
           width: 1/2
           type: TextFormControl
@@ -193,4 +189,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: >
+      Let's discover valuable insights about your company's customer experience
+      delivery.
 ---
