@@ -4,7 +4,7 @@ title: GitHub Projects
 colors: colors-a
 date: '2021-12-20'
 client: Data Discovery with Luis
-description: 'https://github.com/granjaluisf/DataDiscoverywithLuis.git'
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/post-2.jpg
