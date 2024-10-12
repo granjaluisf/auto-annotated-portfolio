@@ -121,7 +121,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub - Data Discovery with Luis
+            label: GitHub Portfolio
             url: 'https://github.com/granjaluisf/DataDiscoverywithLuis'
         styles:
           self:
