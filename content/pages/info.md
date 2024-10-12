@@ -66,7 +66,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: Experience
+    subtitle: Education and Experience
     images:
       - type: ImageBlock
         url: /images/UChicago_ReverseSeal_1Color_White_RGB.png
