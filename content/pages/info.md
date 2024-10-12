@@ -205,8 +205,6 @@ sections:
         label: Microsoft Office
       - type: Label
         label: C++
-      - type: Label
-        label: Swift
   - type: DividerSection
     title: Divider
     elementId: ''
