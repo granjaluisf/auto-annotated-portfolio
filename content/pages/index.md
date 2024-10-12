@@ -153,7 +153,7 @@ sections:
           width: 1/2
           type: EmailFormControl
         - name: Company
-          label: Address
+          label: Company
           hideLabel: true
           placeholder: Address
           isRequired: true
