@@ -308,6 +308,19 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: ContactSection
     backgroundSize: full
     title: "Let’s talk... \U0001F4AC"
@@ -374,17 +387,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
 ---
