@@ -22,7 +22,7 @@ bottomSections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: 'https://github.com/granjaluisf/DataDiscoverywithLuis.git'
         showIcon: true
         icon: arrowRight
         iconPosition: right
