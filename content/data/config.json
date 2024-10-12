@@ -82,7 +82,7 @@
             "email": "datadiscoverywithluis@gmail.com",
             "emailAltText": "My email",
             "address": "Kansas City, MO",
-            "addressAltText": "My address"
+            "addressAltText": "My city"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
