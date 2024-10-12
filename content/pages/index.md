@@ -87,9 +87,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: >-
-      See a comprehensive overview of Luis's data science learning path and
-      projects
+    subtitle: See a comprehensive overview of Luis's data science projects
     title: Project Portfolio
   - type: FeaturedPostsSection
     elementId: ''
