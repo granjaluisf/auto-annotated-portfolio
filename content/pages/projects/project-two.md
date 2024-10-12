@@ -7,7 +7,7 @@ client: Data Discovery with Luis
 description: Data science project portfolio
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/post-2.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
