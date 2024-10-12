@@ -50,7 +50,7 @@ bottomSections:
         justifyContent: flex-start
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/small_sur-1728716314336.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
