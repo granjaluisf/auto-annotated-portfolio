@@ -73,7 +73,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/oracle.jpg
+        url: /images/Oracle_Health_rgb.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
