@@ -34,7 +34,7 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
+                "label": "Github",
                 "altText": "",
                 "url": "/https://github.com/granjaluisf/DataDiscoverywithLuis.git",
                 "icon": "github",
