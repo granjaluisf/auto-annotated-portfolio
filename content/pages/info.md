@@ -204,10 +204,10 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: SQL
         url: ''
+      - type: Label
+        label: Microsoft Office
   - type: DividerSection
     title: Divider
     elementId: ''
