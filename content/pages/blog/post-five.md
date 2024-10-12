@@ -6,7 +6,8 @@ date: '2024-05-02'
 author: content/data/team/doris-soto.json
 excerpt: >-
   From courses in computer science to mathematics, the data science career
-  requires an interdisciplinary toolkit.
+  requires an interdisciplinary toolkit to provide valuable and actionable
+  business insights.
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
