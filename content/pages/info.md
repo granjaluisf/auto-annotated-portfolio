@@ -69,7 +69,7 @@ sections:
     subtitle: Experience
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/UChicago_ReverseSeal_1Color_White_RGB.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
