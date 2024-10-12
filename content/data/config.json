@@ -27,13 +27,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "label": "Github",
                 "altText": "",
                 "url": "/https://github.com/granjaluisf/DataDiscoverywithLuis.git",
