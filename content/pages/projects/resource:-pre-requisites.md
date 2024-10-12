@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Pre-Requisites
 date: '2024-10-11'
-client: Awesome client
+client: Post-Graduate Pre-Requisites
 description: 'Mathematics: Calculus, Linear Algebra, Statistics, Probability'
 featuredImage:
   type: ImageBlock
