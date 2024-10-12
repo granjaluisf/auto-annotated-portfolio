@@ -65,7 +65,6 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - 'content/pages/projects/resource:-pre-requisites.md'
       - content/pages/projects/project-two.md
     styles:
       self:
