@@ -189,4 +189,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    text: >
+      Contact Luis to discover valuable insights about your company's customer
+      experience delivery.
 ---
