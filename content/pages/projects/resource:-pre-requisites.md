@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Resource: Pre-Requisites'
+title: Pre-Requisites
 date: '2024-10-11'
 client: Awesome client
 description: 'Mathematics: Calculus, Linear Algebra, Statistics, Probability'
