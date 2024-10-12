@@ -263,7 +263,7 @@ sections:
               - pr-0
         title: Experience
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: ''
         text: |-
           **2015-2018**
 
