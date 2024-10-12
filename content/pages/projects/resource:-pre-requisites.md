@@ -3,7 +3,9 @@ type: ProjectLayout
 title: Data Science Prerequisites
 date: '2024-10-11'
 client: Post-Graduate Pre-Requisites
-description: 'Mathematics: Calculus, Linear Algebra, Statistics, Probability'
+description: >-
+  Part 1: Math requiremens including Calculus, Linear Algebra, Statistics,
+  Probability
 featuredImage:
   type: ImageBlock
   url: /images/contact.jpg
