@@ -13,11 +13,14 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## Hey, I’m Luis. I was born in Ecuador, and I was raised in Chicago. I’m
+      currently based in Kansas City, MO. I am currently enrolled in a post-bacc
+      in computer science, preparing towards a masters in data science and
+      analytics at the University of Missouri-Kansas City. When I’m not
+      studying, I love potlucks with my family and friends, practicing the
+      guitar, and watching sci-fi/action films.
+
     media:
       type: ImageBlock
       url: /images/DSC01127_optimized_1000.jpeg
