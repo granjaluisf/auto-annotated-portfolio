@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Request your Data driven projects
+    title: Request your Data-driven project
     subtitle: ''
     styles:
       self:
