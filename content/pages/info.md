@@ -14,9 +14,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      ## Hey, I’m Luis. I was born in Ecuador, and I was raised in Chicago. I’m
-      currently based in Kansas City, MO. I am currently enrolled in a post-bacc
-      in computer science, preparing towards a masters in data science and
+      ## Hey, I’m Luis.
+
+
+      ### I was born in Ecuador, and I was raised in Chicago. I’m currently
+      based in Kansas City, MO. I am currently enrolled in a post-bacc in
+      computer science, preparing towards a masters in data science and
       analytics at the University of Missouri-Kansas City. When I’m not
       studying, I love potlucks with my family and friends, practicing the
       guitar, and watching sci-fi/action films.
