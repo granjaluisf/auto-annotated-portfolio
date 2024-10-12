@@ -4,8 +4,8 @@ title: Data Science Learning Pathway
 date: '2024-10-11'
 client: Post-Graduate Pre-Requisites
 description: >-
-  From computer science to mathematics requirements, the data science career
-  path requires an interdisciplinary tool-kit.
+  From courses in computer science to mathematics, the data science career path
+  requires an interdisciplinary tool-kit.
 featuredImage:
   type: ImageBlock
   url: /images/contact.jpg
