@@ -38,6 +38,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://github.com/granjaluisf/DataDiscoverywithLuis.git",
+                "icon": "github",
+                "elementId": ""
             }
         ],
         "styles": {
