@@ -129,7 +129,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Learning Overviews on Notion
+            label: My Notes on Notion
             url: datadiscoverywithluis.notion.site
         styles:
           self:
