@@ -73,7 +73,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/umkc.webp
+        url: /images/UMKC_logo.png
         altText: Logo five
         caption: Logo five
       - type: ImageBlock
