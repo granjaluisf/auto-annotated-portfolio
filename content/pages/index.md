@@ -154,7 +154,7 @@ sections:
           type: EmailFormControl
         - name: Company
           label: Company
-          hideLabel: false
+          hideLabel: true
           placeholder: Address
           isRequired: true
           width: 1/2
