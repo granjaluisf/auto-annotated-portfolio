@@ -73,13 +73,13 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/Oracle_Health_rgb.png
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
         url: /images/logo5.svg
         altText: Logo five
         caption: Logo five
+      - type: ImageBlock
+        url: /images/Oracle_Health_rgb.png
+        altText: Logo two
+        caption: Logo two
     spacing: 3
     columns: 5
     aspectRatio: auto
