@@ -72,6 +72,16 @@
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
                 "altText": "Netlify templates"
+            },
+            {
+                "type": "Link",
+                "label": "LinkedIn",
+                "altText": "My LinkedIn",
+                "url": "www.linkedin.com/in/luis-f-granja",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "contacts": {
