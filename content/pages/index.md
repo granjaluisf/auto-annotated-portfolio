@@ -2,18 +2,11 @@
 type: PageLayout
 title: Home
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg1.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: data discovery with Luis
+    title: Request your Data-driven project with luis
     subtitle: ''
     styles:
       self:
@@ -72,7 +65,7 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - 'content/pages/projects/resource:-pre-requisites.md'
+      - content/pages/projects/project-two.md
     styles:
       self:
         height: auto
@@ -94,7 +87,8 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: See an overview of Luis's data science projects
+    title: Project Portfolio
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -200,7 +194,13 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    text: >
-      Let's discover valuable insights about your company's customer experience
-      delivery.
+    text: |
+      Let's discover valuable insights about your company's customer experience.
+backgroundImage:
+  type: BackgroundImage
+  url: /images/small_sur-1728716314336.png
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---

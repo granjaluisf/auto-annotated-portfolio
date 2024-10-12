@@ -27,17 +27,19 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "label": "Github",
+                "altText": "",
+                "url": "https://github.com/granjaluisf/DataDiscoverywithLuis.git",
+                "icon": "github",
+                "elementId": ""
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "Facebook",
+                "altText": "",
+                "url": "www.linkedin.com/in/luis-f-granja",
+                "icon": "linkedin",
+                "elementId": ""
             }
         ],
         "styles": {
