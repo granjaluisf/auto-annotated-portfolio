@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: P
+title: Data Science Learning Pathway
 date: '2024-10-11'
 client: Post-Graduate Pre-Requisites
 description: >-
