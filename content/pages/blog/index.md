@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: Luis's Data Science Learning Pathway
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
