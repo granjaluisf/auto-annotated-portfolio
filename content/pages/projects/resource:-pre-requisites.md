@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Data Science Prerequisites
+title: P
 date: '2024-10-11'
 client: Post-Graduate Pre-Requisites
 description: >-
