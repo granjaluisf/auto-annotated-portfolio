@@ -6,7 +6,7 @@ client: Post-Graduate Pre-Requisites
 description: 'Mathematics: Calculus, Linear Algebra, Statistics, Probability'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/DSC01127_optimized_1000.jpeg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
