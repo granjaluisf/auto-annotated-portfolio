@@ -232,7 +232,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: ''
         text: |-
           **Current**
 
