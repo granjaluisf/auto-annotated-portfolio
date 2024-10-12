@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Discover Customer Experience Insights
+    title: data discovery with Luis
     subtitle: ''
     styles:
       self:
