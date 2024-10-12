@@ -202,10 +202,10 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: C++
-      - type: Label
         label: SQL
         url: ''
+      - type: Label
+        label: C++
       - type: Label
         label: Microsoft Office
   - type: DividerSection
