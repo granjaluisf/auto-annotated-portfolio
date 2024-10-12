@@ -21,7 +21,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/DSC01127_optimized_1000.jpeg
-      altText: Hero image
+      altText: Image
     styles:
       self:
         height: auto
