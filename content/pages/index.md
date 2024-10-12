@@ -190,6 +190,6 @@ sections:
       text:
         textAlign: left
     text: >
-      Contact Luis to discover valuable insights about your company's customer
-      experience delivery.
+      Let's discover valuable insights about your company's customer experience
+      delivery.
 ---
