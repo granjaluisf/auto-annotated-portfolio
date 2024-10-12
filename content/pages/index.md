@@ -13,14 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Discovering data science
-    subtitle: >-
-      Luis Fernando Granja is an aspiring data scientist in KCMO, currently
-      enrolled in a post-baccalaureate computer science program, preparing for a
-      masters in data science and analytics. After he completed his degrees in
-      human development and social service administration in Chicago, his
-      experience working in the healthcare information technology industry
-      inspired him to pursue a career in customer experience analytics.
+    title: data discovery with Luis
+    subtitle: ''
     styles:
       self:
         height: auto
@@ -48,6 +42,22 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      Luis is an aspiring data scientist and current student in the University
+      of Missouri-Kansas City. After studying comparative human development and
+      social service administration at the University of Chicago, his work
+      experience in the healthcare information technology industry inspired him
+      to pursue a career in customer experience analytics.
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: 'https://youtu.be/BD-YliszGkA'
+      elementId: ''
+      autoplay: false
+      loop: false
+      muted: false
+      controls: true
+      aspectRatio: '16:9'
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
