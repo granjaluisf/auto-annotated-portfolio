@@ -90,7 +90,7 @@ sections:
     subtitle: >-
       See a comprehensive overview of Luis's data science learning path and
       projects
-    title: Resources and Projects
+    title: Project Portfolio
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
