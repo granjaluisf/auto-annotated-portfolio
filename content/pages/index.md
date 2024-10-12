@@ -6,7 +6,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: data discovery with Luis
+    title: Data driven projects
     subtitle: ''
     styles:
       self:
