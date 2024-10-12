@@ -202,9 +202,9 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Microsoft Office
-      - type: Label
         label: C++
+      - type: Label
+        label: Microsoft Office
       - type: Label
         label: SQL
         url: ''
