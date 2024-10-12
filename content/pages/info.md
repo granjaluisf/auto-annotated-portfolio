@@ -73,7 +73,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/oracle.jpg
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
