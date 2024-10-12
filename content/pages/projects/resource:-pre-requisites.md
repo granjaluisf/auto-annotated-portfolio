@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Pre-Requisites
+title: Data Science Pre-Requisites
 date: '2024-10-11'
 client: Post-Graduate Pre-Requisites
 description: 'Mathematics: Calculus, Linear Algebra, Statistics, Probability'
