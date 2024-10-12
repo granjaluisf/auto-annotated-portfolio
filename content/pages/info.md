@@ -185,6 +185,7 @@ sections:
       subtitle:
         textAlign: left
     subtitle: 'You can find me here:'
+    title: Links to Projects and Learning Resources
   - type: DividerSection
     styles:
       self:
