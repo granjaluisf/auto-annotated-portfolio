@@ -29,7 +29,7 @@
                 "type": "Social",
                 "label": "Github",
                 "altText": "",
-                "url": "/https://github.com/granjaluisf/DataDiscoverywithLuis.git",
+                "url": "https://github.com/granjaluisf/DataDiscoverywithLuis.git",
                 "icon": "github",
                 "elementId": ""
             },
