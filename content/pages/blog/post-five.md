@@ -1,15 +1,13 @@
 ---
 type: PostLayout
-title: AI are so hot right now
+title: Post-Baccalaureate Learning Pathway
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
-featuredImage:
-  type: ImageBlock
-  url: /images/featured-Image5.jpg
-  altText: Post thumbnail image
+  From courses in computer science to mathematics, the data science career
+  requires an interdisciplinary toolkit to provide valuable and actionable
+  business insights.
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
@@ -45,7 +43,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
