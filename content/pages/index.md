@@ -43,8 +43,8 @@ sections:
     type: HeroSection
     actions: []
     text: >
-      Luis Fernando Granja is an aspiring data scientist and current student in
-      the University of Missouri-Kansas City. After studying comparative human
+      Luis G. is an aspiring data scientist and current student in the
+      University of Missouri-Kansas City. After studying comparative human
       development and social service administration at the University of
       Chicago, his work experience in the healthcare information technology
       industry inspired him to pursue a career in customer experience analytics.
