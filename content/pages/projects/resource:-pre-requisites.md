@@ -3,9 +3,7 @@ type: ProjectLayout
 title: 'Resource: Pre-Requisites'
 date: '2024-10-11'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 'Mathematics: Calculus, Linear Algebra, Statistics, Probability'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
