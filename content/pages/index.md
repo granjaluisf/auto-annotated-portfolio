@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Discovering data science
+    title: Discovering Customer Experience Data Insights with Luis
     subtitle: >-
       Luis Fernando Granja is an aspiring data scientist in KCMO, currently
       enrolled in a post-baccalaureate computer science program, preparing for a
