@@ -194,9 +194,8 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    text: >
-      Let's discover valuable insights about your company's customer experience
-      delivery.
+    text: |
+      Let's discover valuable insights about your company's customer experience.
 backgroundImage:
   type: BackgroundImage
   url: /images/small_sur-1728716314336.png
