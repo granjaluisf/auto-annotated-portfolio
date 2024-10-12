@@ -1,7 +1,7 @@
 ---
 type: ProjectFeedLayout
 title: Projects
-colors: colors-a
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/small_sur-1728716314336.png
