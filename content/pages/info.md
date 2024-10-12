@@ -204,8 +204,6 @@ sections:
       - type: Label
         label: Microsoft Office
       - type: Label
-        label: Pancakes
-      - type: Label
         label: C++
       - type: Label
         label: Swift
