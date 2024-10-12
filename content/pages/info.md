@@ -231,9 +231,8 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      [datadiscoverywithluis@gmail.com]
-      <mailto:datadiscoverywithluis@gmail.com>
+    text: >
+      [<datadiscoverywithluis@gmail.com>]<mailto:datadiscoverywithluis@gmail.com>
   - type: DividerSection
     styles:
       self:
