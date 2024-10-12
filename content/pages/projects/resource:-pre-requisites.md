@@ -4,8 +4,8 @@ title: Data Science Prerequisites
 date: '2024-10-11'
 client: Post-Graduate Pre-Requisites
 description: >-
-  Part 1: Math requirements including Calculus, Linear Algebra, Statistics,
-  Probability
+  From computer science to mathematics requirements, the data science career
+  path requires an interdisciplinary tool-kit.
 featuredImage:
   type: ImageBlock
   url: /images/contact.jpg
