@@ -17,8 +17,8 @@ sections:
       ## Hey, I’m Luis.
 
 
-      ### I am originally from Ecuador, but I grew up in Chicago. Currently I am
-      based in Kansas City, MO, where I am a post-bacc in computer science,
+      #### I am originally from Ecuador, but I grew up in Chicago. Currently I
+      am based in Kansas City, MO, where I am a post-bacc in computer science,
       preparing for a masters in data science and analytics at the University of
       Missouri-Kansas City. When I’m not studying, I love potlucks with my
       family and friends, practicing the guitar, and watching sci-fi/action
