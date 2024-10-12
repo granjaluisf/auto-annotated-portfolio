@@ -205,6 +205,9 @@ sections:
         label: Microsoft Office
       - type: Label
         label: C++
+      - type: Label
+        label: SQL
+        url: ''
   - type: DividerSection
     title: Divider
     elementId: ''
