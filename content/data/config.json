@@ -84,7 +84,7 @@
             "address": "Kansas City, MO",
             "addressAltText": "My city"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n\nCopyright © at 2024 Data Discovery with Luis\n\n",
         "styles": {
             "self": {
                 "width": "narrow",
