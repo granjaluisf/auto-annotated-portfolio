@@ -15,7 +15,7 @@ media:
   altText: Project image
 bottomSections:
   - type: CtaSection
-    title: Access Luis' GitHub
+    title: GitHub
     text: |
       Link: <https://github.com/granjaluisf/DataDiscoverywithLuis.git>
     actions:
