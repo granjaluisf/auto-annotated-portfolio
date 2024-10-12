@@ -43,11 +43,11 @@ sections:
     type: HeroSection
     actions: []
     text: >
-      Luis is an aspiring data scientist and current student in the University
-      of Missouri-Kansas City. After studying comparative human development and
-      social service administration at the University of Chicago, his work
-      experience in the healthcare information technology industry inspired him
-      to pursue a career in customer experience analytics.
+      Luis is an aspiring data scientist and post-baccalaureate student at the
+      University of Missouri-Kansas City. After studying comparative human
+      development and social service administration at the University of
+      Chicago, his work experience in the healthcare information technology
+      industry inspired him to pursue a career in customer experience analytics.
     media:
       type: VideoBlock
       title: Title of the video
